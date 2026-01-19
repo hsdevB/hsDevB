@@ -1,49 +1,71 @@
+# 안녕하세요, 백엔드 개발자 정효성입니다 👋
 
+임베디드 시스템부터 백엔드 API까지, **데이터의 흐름을 이해하는 개발자**입니다.
 
-<div align=left>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20GitHub&fontSize=70)
+2년간 GPS 단말기 개발 기업에서 펌웨어와 백엔드를 동시에 경험했고,  
+현재는 **Node.js / FastAPI 기반 백엔드 개발**에 집중하고 있습니다.
 
-  <h4> 📢 Introduction </h4>
-  <h5> 안녕하세요! 임베디드 개발자로 시작하여 백엔드 개발자가 되고 싶은 주니어 개발자입니다 :) <br/>서버, 네트워크 등에 관심이 많으며, 지속적으로 공부하고 있습니다.<hr/></h5>
+---
 
-  #### ✅ Today 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  #### 👌 Tech Skill 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
-  <br>
+## 🛠 Tech Stack
 
-  #### 📕 Studying 
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=ec2&logoColor=black">
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=rds&logoColor=white">
-  <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=white">
-  <br>
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
+**DevOps & Infra**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
+**IoT**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-  <br>
-  <!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs06146&langs_count=8)](https://github.com/hs06146/github-readme-stats)
-  -->
-</div>
+---
+
+## 🏆 Awards
+
+- 🥇 **메타버스 아카데미 (메타캠프)** - 최우수상 (1위)
+- 🥈 **SW전문인재양성사업 컨퍼런스** - 우수상
+
+---
+
+## 📌 Featured Projects
+
+### [APS (Advanced Planning & Scheduling) 시스템](https://github.com/hsdevB/aps-backend)
+> 제조업 생산 계획 및 Gantt 차트 기반 스케줄링 시스템  
+> `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Docker`
+
+### [GreenSync - 디지털 트윈 스마트팜](https://github.com/hsdevB/greenSync-BE)
+> IoT 기반 스마트팜 디지털 트윈 교육 플랫폼 (5인 팀 PM)  
+> `Node.js` `Express` `PostgreSQL` `Redis` `MQTT` `Raspberry Pi`
+
+### [AI Voucher - 3D 카메라 데이터 자동 수집 시스템](https://github.com/hsdevB/camera-upload-monit)
+> 제조 현장 품질 검사용 카메라 데이터 자동 수집 및 모니터링  
+> `FastAPI` `Flask` `AWS S3` `Nginx`
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-0_030_@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0_030_@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://circular-suit-b2e.notion.site/Hi-I-m-hyo-41f5ff1fd7da4d5680a9bef014ee853c)
+
+---
+
+![Hyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=default)
+
+</
