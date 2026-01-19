@@ -45,7 +45,7 @@
 
 ## 📌 Featured Projects
 
-### [APS (Advanced Planning & Scheduling) 시스템](https://github.com/hsdevB/aps-backend)
+### [APS (Advanced Planning & Scheduling) 시스템]
 > 제조업 생산 계획 및 Gantt 차트 기반 스케줄링 시스템  
 > `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Docker`
 
